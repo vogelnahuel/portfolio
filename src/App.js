@@ -11,12 +11,12 @@ import css from './imagenes/css.jpeg'
 import javascript from './imagenes/javascript.png'
 import bootstrap from './imagenes/bootstrap.png'
 import sass from './imagenes/sass.png'
-import react from './imagenes/react.png'
+import react from './imagenes/react2.png'
 import typescript from './imagenes/typescript.png'
 import git from './imagenes/git.png'
 import java from './imagenes/java.jpg'
 import c from './imagenes/C.png'
-import cPlus from './imagenes/c++.png'
+import cPlusPlus from './imagenes/cPlusPlus.svg'
 import node from './imagenes/node.png'
 import oracle from './imagenes/oracle.jpg'
 import sqlServer from './imagenes/sqlServer.jpg'
@@ -173,7 +173,7 @@ function App() {
                   
                         <img  className="imagen-tecnologia" src={java} alt="perfil"/>
                         <img  className="imagen-tecnologia" src={c} alt="perfil"/>
-                        <img  className="imagen-tecnologia" src={cPlus} alt="perfil"/>
+                        <img  className="imagen-tecnologia" src={cPlusPlus} alt="perfil"/>
                         <img  className="imagen-tecnologia" src={node} alt="perfil"/>
                   
 
